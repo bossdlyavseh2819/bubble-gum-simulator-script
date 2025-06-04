@@ -41,7 +41,7 @@ Our script provides professional-grade automation for Bubble Gum Simulator with 
 - **Reward Tracker**: Never misses timed bonuses
 
 ## Installation
-[![download](https://github.com/user-attachments/assets/7e2a0cbd-5c44-457c-9e51-04800a5341ba)]
+![download](https://github.com/user-attachments/assets/7e2a0cbd-5c44-457c-9e51-04800a5341ba)
 
 To install the cheat, follow these steps:
 1. Click the "Download" button above and download the file
